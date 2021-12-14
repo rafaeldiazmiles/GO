@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func foo() {
-	fmt.Println("Algo enviado directo del main package\n")
+	fmt.Println("Algo enviado directo del main package")
 }
 
 /*
