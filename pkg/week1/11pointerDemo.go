@@ -2,7 +2,7 @@ package week1
 
 import "fmt"
 
-func Demo() {
+func PointerDemo() {
 	var someInt *int
 	otherInt := 2
 	pointer := &otherInt
