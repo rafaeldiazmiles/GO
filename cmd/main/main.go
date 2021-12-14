@@ -20,5 +20,7 @@ func main() {
 	// w.Defer(nums...)
 	// fmt.Println(w.Sqrt(9))
 	// w.CastFloat(1)
-	w.Demo()
+	// w.PointerDemo()
+	// w.StructDemo()
+	w.PSDEmo()
 }
