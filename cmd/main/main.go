@@ -22,5 +22,12 @@ func main() {
 	// w.CastFloat(1)
 	// w.PointerDemo()
 	// w.StructDemo()
-	w.PSDEmo()
+	// w.PSDEmo()
+	// w.PlayerDemo()
+	// w.ArrayMadness()
+	// w.MapStructDemo()
+	// w.FuncTypesDemo()
+	// w.MethodsDemo()
+	// w.InterfaceDemo()
+	w.TypeAsDemo()
 }
