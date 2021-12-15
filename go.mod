@@ -1,3 +1,3 @@
 module github.com/rafaeldiazmiles/GO
 
-go 1.10
+go 1.17
